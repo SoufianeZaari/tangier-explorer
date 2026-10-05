@@ -6,8 +6,8 @@ Built for the Hacktoberfest DEV Open-Source AI Challenge: Week 1 - theme "Touch 
 
 ## Demo
 
-![Tangier Explorer demo](demo.png)
-
+![Tangier Explorer demo](demo1.png)
+![Tangier Explorer demo](demo2.png)
 ## How it works
 
 1. 148 real places in `spots.json` - landmarks, cafes, beaches, hidden spots, all verified by a local
