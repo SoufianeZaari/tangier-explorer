@@ -1,0 +1,1038 @@
+[
+ {
+  "area": "Kasbah",
+  "category": "history",
+  "description": "Old sultan's palace, now the Kasbah Museum. Best views over the Strait.",
+  "id": 1,
+  "name": "Kasbah & Dar el Makhzen"
+ },
+ {
+  "area": "Medina",
+  "category": "history",
+  "description": "Maze of alleys, souks and artisans. Get lost on purpose.",
+  "id": 2,
+  "name": "Medina (Old Town)"
+ },
+ {
+  "area": "Centre",
+  "category": "history",
+  "description": "The big square between old and new town. Great starting point for any walk.",
+  "id": 3,
+  "name": "Grand Socco"
+ },
+ {
+  "area": "Medina",
+  "category": "hidden",
+  "description": "Tiny historic square, old haunt of writers like Burroughs and Bowles.",
+  "id": 4,
+  "name": "Petit Socco"
+ },
+ {
+  "area": "Marshan",
+  "category": "food",
+  "description": "Legendary cliffside café (1921). Mint tea with a view of Spain.",
+  "id": 5,
+  "name": "Café Hafa"
+ },
+ {
+  "area": "Petit Socco",
+  "category": "food",
+  "description": "Tiny iconic café in the Petit Socco. Order a nous-nous.",
+  "id": 6,
+  "name": "Café Baba"
+ },
+ {
+  "area": "Achakar",
+  "category": "sea",
+  "description": "Northwestern tip of Africa where the Atlantic meets the Mediterranean.",
+  "id": 7,
+  "name": "Cap Spartel & Lighthouse"
+ },
+ {
+  "area": "Achakar",
+  "category": "sea",
+  "description": "Sea cave with the famous Africa-shaped opening. Myth says Hercules rested here.",
+  "id": 8,
+  "name": "Hercules Caves (Grottes d'Hercule)"
+ },
+ {
+  "area": "Medina",
+  "category": "history",
+  "description": "First US diplomatic property abroad (1821). Small museum, free-ish.",
+  "id": 9,
+  "name": "American Legation Museum"
+ },
+ {
+  "area": "Centre",
+  "category": "hidden",
+  "description": "Quiet park with 800-year-old banyan trees, next to the Grand Socco.",
+  "id": 10,
+  "name": "Mendoubia Gardens"
+ },
+ {
+  "area": "Marshan",
+  "category": "sea",
+  "description": "Cliff promenade with panoramic views over the bay and the port.",
+  "id": 11,
+  "name": "Marshan & Terrasse des Paresseux"
+ },
+ {
+  "area": "Rmilat",
+  "category": "sea",
+  "description": "Forest park on the hills with mansions and sea viewpoints. Good for a long walk.",
+  "id": 12,
+  "name": "Perdicaris Park (Rmilat)"
+ },
+ {
+  "area": "Marshan",
+  "category": "history",
+  "description": "Anglican church (1905) with Moorish-style architecture.",
+  "id": 13,
+  "name": "St Andrew's Church"
+ },
+ {
+  "area": "Medina",
+  "category": "history",
+  "description": "Historic mosque at the entrance of the medina (exterior visit).",
+  "id": 14,
+  "name": "Grand Mosque of Tangier"
+ },
+ {
+  "area": "Medina",
+  "category": "food",
+  "description": "Covered market inside the medina. Spices, olives, msemen stalls.",
+  "id": 15,
+  "name": "Souk Dakhel"
+ },
+ {
+  "area": "Grand Socco",
+  "category": "hidden",
+  "description": "Art-house cinema in a 1930s building. Check the program for screenings.",
+  "id": 16,
+  "name": "Cinéma Rif / Cinémathèque"
+ },
+ {
+  "area": "Malabata",
+  "category": "history",
+  "description": "Contemporary art museum in a historic villa with gardens.",
+  "id": 17,
+  "name": "Musée d'Art Contemporain (Villa Harris)"
+ },
+ {
+  "area": "Malabata",
+  "category": "sea",
+  "description": "Eastern cape with castle ruins and views across to Gibraltar.",
+  "id": 18,
+  "name": "Cap Malabata"
+ },
+ {
+  "area": "Corniche",
+  "category": "sea",
+  "description": "Long beachfront walk. Best at sunset.",
+  "id": 19,
+  "name": "Tangier Beach promenade"
+ },
+ {
+  "area": "Port",
+  "category": "sea",
+  "description": "Modern marina with cafés facing the old port and the medina walls.",
+  "id": 20,
+  "name": "Port & Marina Bay"
+ },
+ {
+  "area": "Medina",
+  "category": "hidden",
+  "description": "Old synagogue turned museum of Tangier's Jewish history.",
+  "id": 21,
+  "name": "Fondation Lorin (synagogue museum)"
+ },
+ {
+  "area": "Medina",
+  "category": "history",
+  "description": "Old sea gate of the medina leading down toward the port.",
+  "id": 22,
+  "name": "Rue de la Marine / Bab el Bahr"
+ },
+ {
+  "area": "Centre",
+  "category": "hidden",
+  "description": "Abandoned 1913 Spanish theatre. Exterior only, but a striking ruin.",
+  "id": 23,
+  "name": "Gran Teatro Cervantes"
+ },
+ {
+  "area": "Achakar",
+  "category": "sea",
+  "description": "Atlantic beach near the caves. Wilder than the city beach.",
+  "id": 24,
+  "name": "Achakar Beach"
+ },
+ {
+  "area": "Medina",
+  "category": "history",
+  "description": "A traditional stone archway serving as the primary southern entrance to the Medina.",
+  "id": 25,
+  "name": "Bab Fahs"
+ },
+ {
+  "area": "Kasbah",
+  "category": "history",
+  "description": "An ancient defensive gate leading into the upper Kasbah district.",
+  "id": 26,
+  "name": "Bab Haha"
+ },
+ {
+  "area": "Kasbah",
+  "category": "history",
+  "description": "A historic gateway connecting the Medina and Kasbah, known for its traditional tilework.",
+  "id": 27,
+  "name": "Bab Al Assa"
+ },
+ {
+  "area": "Kasbah",
+  "category": "sea",
+  "description": "The 'Sea Gate' providing panoramic views over the Strait of Gibraltar.",
+  "id": 28,
+  "name": "Bab Bhar"
+ },
+ {
+  "area": "Kasbah",
+  "category": "history",
+  "description": "The main entry portal to the fortified Kasbah area from the Medina.",
+  "id": 29,
+  "name": "Bab Kasbah"
+ },
+ {
+  "area": "Kasbah",
+  "category": "history",
+  "description": "A restored coastal defense tower that houses a tribute to explorer Ibn Battuta.",
+  "id": 30,
+  "name": "Borj En-Naam"
+ },
+ {
+  "area": "Medina",
+  "category": "history",
+  "description": "An old military fort and gunpowder storage site along the city's coastal walls.",
+  "id": 31,
+  "name": "Borj Dar El-Baroud"
+ },
+ {
+  "area": "Medina",
+  "category": "history",
+  "description": "A historic artillery bastion built to defend the northern harbor.",
+  "id": 32,
+  "name": "Borj Al Hajoui"
+ },
+ {
+  "area": "Medina",
+  "category": "culture",
+  "description": "A 19th-century diplomatic building now serving as a museum of arts and history.",
+  "id": 33,
+  "name": "Dar Niaba"
+ },
+ {
+  "area": "Medina",
+  "category": "history",
+  "description": "The reputed burial site of the 14th-century Moroccan scholar and traveler.",
+  "id": 34,
+  "name": "Ibn Battuta's Tomb"
+ },
+ {
+  "area": "Kasbah",
+  "category": "history",
+  "description": "An octagonal-minaret mosque constructed in the 17th century for the sultan's court.",
+  "id": 35,
+  "name": "Kasbah Mosque"
+ },
+ {
+  "area": "Medina",
+  "category": "history",
+  "description": "A mosque built in 1917, characterized by its pink façade near the Grand Socco.",
+  "id": 36,
+  "name": "Sidi Bou Abib Mosque"
+ },
+ {
+  "area": "Ville Nouvelle",
+  "category": "history",
+  "description": "A modern Catholic cathedral serving the city's Spanish-speaking community.",
+  "id": 37,
+  "name": "Spanish Cathedral"
+ },
+ {
+  "area": "Medina",
+  "category": "history",
+  "description": "A lavishly decorated 19th-century synagogue hidden behind an unassuming street door.",
+  "id": 38,
+  "name": "Moshe Nahon Synagogue"
+ },
+ {
+  "area": "Ville Nouvelle",
+  "category": "history",
+  "description": "An active Jewish place of worship located in a converted mid-century villa.",
+  "id": 39,
+  "name": "Chaar Rafael Synagogue"
+ },
+ {
+  "area": "Medina",
+  "category": "history",
+  "description": "A historical burial ground documenting centuries of Jewish presence in the city.",
+  "id": 40,
+  "name": "Jewish Cemetery of Tangier"
+ },
+ {
+  "area": "Marshan",
+  "category": "history",
+  "description": "The final resting place of foreign expatriates, diplomats, and local Christians.",
+  "id": 41,
+  "name": "Christian Cemetery of Tangier"
+ },
+ {
+  "area": "Medina",
+  "category": "culture",
+  "description": "One of the oldest movie theaters in Tangier, recently restored.",
+  "id": 42,
+  "name": "Cinema Alcazar"
+ },
+ {
+  "area": "Ville Nouvelle",
+  "category": "culture",
+  "description": "A vintage 1950s cinema operating in the modern district of the city.",
+  "id": 43,
+  "name": "Cinema Roxy"
+ },
+ {
+  "area": "Ville Nouvelle",
+  "category": "culture",
+  "description": "A contemporary gallery showcasing works from local and international artists.",
+  "id": 44,
+  "name": "Dar d'Art"
+ },
+ {
+  "area": "Kasbah",
+  "category": "culture",
+  "description": "A small gallery space dedicated to promoting Moroccan outsider and naive art.",
+  "id": 45,
+  "name": "Galerie Conil"
+ },
+ {
+  "area": "Ville Nouvelle",
+  "category": "culture",
+  "description": "An exhibition space specializing in contemporary Moroccan paintings and sculptures.",
+  "id": 46,
+  "name": "Medina Art Gallery"
+ },
+ {
+  "area": "Ville Nouvelle",
+  "category": "culture",
+  "description": "An established venue for modern art exhibitions in the city center.",
+  "id": 47,
+  "name": "Kent Gallery"
+ },
+ {
+  "area": "Ville Nouvelle",
+  "category": "culture",
+  "description": "A cultural institute offering French language courses, exhibitions, and performances.",
+  "id": 48,
+  "name": "Institut Français de Tanger"
+ },
+ {
+  "area": "Medina",
+  "category": "history",
+  "description": "A 19th-century hotel overlooking the port, retaining its original vintage decor.",
+  "id": 49,
+  "name": "Hotel Continental"
+ },
+ {
+  "area": "Ville Nouvelle",
+  "category": "culture",
+  "description": "A cultural space showcasing Moroccan antiquities and Orientalist art.",
+  "id": 50,
+  "name": "Gallery Artingis"
+ },
+ {
+  "area": "Marshan",
+  "category": "history",
+  "description": "A palatial estate formerly owned by Sultan Moulay Hafid, used for cultural events.",
+  "id": 51,
+  "name": "Palais des Institutions Italiennes"
+ },
+ {
+  "area": "Kasbah",
+  "category": "culture",
+  "description": "A cultural center and exhibition area located within the historical Kasbah.",
+  "id": 52,
+  "name": "Ibn Khaldoun Space"
+ },
+ {
+  "area": "Ville Nouvelle",
+  "category": "culture",
+  "description": "A prominent intersection and gathering spot in the European quarter.",
+  "id": 53,
+  "name": "Place de France"
+ },
+ {
+  "area": "Sour Jdid",
+  "category": "sea",
+  "description": "A paved viewing terrace equipped with historic canons overlooking the Strait of Gibraltar.",
+  "id": 54,
+  "name": "Faro Square"
+ },
+ {
+  "area": "Ville Nouvelle",
+  "category": "culture",
+  "description": "A modern public plaza characterized by water features and city activity.",
+  "id": 55,
+  "name": "Place des Nations"
+ },
+ {
+  "area": "Ville Nouvelle",
+  "category": "culture",
+  "description": "The main commercial artery of the new city, lined with colonial architecture.",
+  "id": 56,
+  "name": "Boulevard Pasteur"
+ },
+ {
+  "area": "Malabata",
+  "category": "sea",
+  "description": "A long coastal promenade extending along the city's main bay.",
+  "id": 57,
+  "name": "Avenue Mohammed VI"
+ },
+ {
+  "area": "Ville Nouvelle",
+  "category": "culture",
+  "description": "A busy shopping street connecting the Place de France to the Grand Socco.",
+  "id": 58,
+  "name": "Rue de la Liberté"
+ },
+ {
+  "area": "Medina",
+  "category": "history",
+  "description": "A historic market street historically known for Jewish silversmiths and jewelers.",
+  "id": 59,
+  "name": "Rue Siaghines"
+ },
+ {
+  "area": "Medina",
+  "category": "history",
+  "description": "An ancient alleyway in the Medina reflecting the city's diverse religious history.",
+  "id": 60,
+  "name": "Rue des Chrétiens"
+ },
+ {
+  "area": "Kasbah",
+  "category": "history",
+  "description": "A narrow residential street showcasing traditional Andalusian-style doorways and walls.",
+  "id": 61,
+  "name": "Rue Amrah"
+ },
+ {
+  "area": "Ville Nouvelle",
+  "category": "hidden",
+  "description": "A quiet, inclined street known for its vintage residential architecture.",
+  "id": 62,
+  "name": "Rue Magellan"
+ },
+ {
+  "area": "Medina",
+  "category": "culture",
+  "description": "A vibrant street just outside the Kasbah walls lined with local grocers.",
+  "id": 63,
+  "name": "Rue d'Italie"
+ },
+ {
+  "area": "Centre",
+  "category": "sea",
+  "description": "A thoroughfare running parallel to the municipal beach and train station.",
+  "id": 64,
+  "name": "Avenue d'Espagne"
+ },
+ {
+  "area": "Centre",
+  "category": "sea",
+  "description": "A pedestrian-friendly route bridging the city center to the waterfront.",
+  "id": 65,
+  "name": "Rue de la Plage"
+ },
+ {
+  "area": "Medina",
+  "category": "hidden",
+  "description": "An inner Medina alley featuring traditional textile and spice merchants.",
+  "id": 66,
+  "name": "Rue du Commerce"
+ },
+ {
+  "area": "Medina",
+  "category": "hidden",
+  "description": "A residential alleyway displaying typical blue and white painted facades.",
+  "id": 67,
+  "name": "Rue Sanlucar"
+ },
+ {
+  "area": "Centre",
+  "category": "culture",
+  "description": "A commercial street serving as a major traffic artery through the city center.",
+  "id": 68,
+  "name": "Rue de Fès"
+ },
+ {
+  "area": "Kasbah",
+  "category": "history",
+  "description": "The open courtyard area located just outside the Dar El Makhzen palace.",
+  "id": 69,
+  "name": "Place de la Kasbah"
+ },
+ {
+  "area": "Kasbah",
+  "category": "history",
+  "description": "A small historic square in the upper city, formerly used for military storage.",
+  "id": 70,
+  "name": "Place de l'Arsenal"
+ },
+ {
+  "area": "Medina",
+  "category": "hidden",
+  "description": "A secluded square in the Medina hosting small cafes and artisanal shops.",
+  "id": 71,
+  "name": "Place Oued Ahardan"
+ },
+ {
+  "area": "Ville Nouvelle",
+  "category": "food",
+  "description": "A historic 1920s establishment that was a favorite of the International Zone's literati.",
+  "id": 72,
+  "name": "Gran Café de Paris"
+ },
+ {
+  "area": "Medina",
+  "category": "food",
+  "description": "A landmark coffee shop situated squarely in the bustling Petit Socco.",
+  "id": 73,
+  "name": "Café Central"
+ },
+ {
+  "area": "Medina",
+  "category": "food",
+  "description": "A traditional cafe in Petit Socco, historically frequented by Beat Generation writers.",
+  "id": 74,
+  "name": "Café Tingis"
+ },
+ {
+  "area": "Ville Nouvelle",
+  "category": "food",
+  "description": "An old-school European style cafe located near the main post office.",
+  "id": 75,
+  "name": "Café de la Poste"
+ },
+ {
+  "area": "Ville Nouvelle",
+  "category": "food",
+  "description": "A vintage neighborhood coffee shop opposite the abandoned Cervantes Theatre.",
+  "id": 76,
+  "name": "Café Colon"
+ },
+ {
+  "area": "Centre",
+  "category": "food",
+  "description": "A typical Moroccan local cafe serving daily pastries and traditional mint tea.",
+  "id": 77,
+  "name": "Café Al Amane"
+ },
+ {
+  "area": "Sour Jdid",
+  "category": "food",
+  "description": "A popular local spot offering ocean views along the city's ancient ramparts.",
+  "id": 78,
+  "name": "Café Sour Jdid"
+ },
+ {
+  "area": "Kasbah",
+  "category": "food",
+  "description": "A multi-level tea house providing panoramic views of the Medina and the sea.",
+  "id": 79,
+  "name": "Le Salon Bleu"
+ },
+ {
+  "area": "Kasbah",
+  "category": "food",
+  "description": "A quaint eatery blending Moroccan and European cafe traditions in a residential alley.",
+  "id": 80,
+  "name": "Café a l'Anglaise"
+ },
+ {
+  "area": "Kasbah",
+  "category": "food",
+  "description": "A restaurant and cafe featuring a terrace overlooking the historical old town.",
+  "id": 81,
+  "name": "Macondo"
+ },
+ {
+  "area": "Malabata",
+  "category": "food",
+  "description": "A modern coastal cafe known for its clear views of the Tangier bay.",
+  "id": 82,
+  "name": "Café Panorama"
+ },
+ {
+  "area": "Ville Nouvelle",
+  "category": "food",
+  "description": "A classic gathering spot for locals located along the busy Boulevard Pasteur.",
+  "id": 83,
+  "name": "Café de Tanger"
+ },
+ {
+  "area": "Kasbah",
+  "category": "food",
+  "description": "A 1960s cultural hub founded by Brion Gysin, embedded in the Kasbah walls.",
+  "id": 84,
+  "name": "Café Detroit"
+ },
+ {
+  "area": "Marshan",
+  "category": "food",
+  "description": "A relaxed neighborhood cafe near the Phoenician tombs offering outdoor seating.",
+  "id": 85,
+  "name": "Café La Giralda"
+ },
+ {
+  "area": "Malabata",
+  "category": "food",
+  "description": "An upscale seaside cafe situated within a prominent resort property.",
+  "id": 86,
+  "name": "Café Bianca"
+ },
+ {
+  "area": "Centre",
+  "category": "food",
+  "description": "A popular ice cream parlor located on the main beachfront promenade.",
+  "id": 87,
+  "name": "La Gelateria"
+ },
+ {
+  "area": "Malabata",
+  "category": "food",
+  "description": "A bustling modern cafe and patisserie facing the ocean.",
+  "id": 88,
+  "name": "Kandinsky Plaza"
+ },
+ {
+  "area": "Medina",
+  "category": "hidden",
+  "description": "A traditional weavers' market where artisans craft textiles on wooden looms.",
+  "id": 89,
+  "name": "Fondouk Chejra"
+ },
+ {
+  "area": "Beni Makada",
+  "category": "hidden",
+  "description": "A sprawling flea market selling everything from electronics to antique furniture.",
+  "id": 90,
+  "name": "Casa Barata"
+ },
+ {
+  "area": "Medina",
+  "category": "history",
+  "description": "The outer market extending from the Grand Socco, busy with local produce vendors.",
+  "id": 91,
+  "name": "Souk Barra"
+ },
+ {
+  "area": "Ville Nouvelle",
+  "category": "culture",
+  "description": "The city's main fresh food market, showcasing colonial Spanish architecture.",
+  "id": 92,
+  "name": "Mercado Central"
+ },
+ {
+  "area": "Centre",
+  "category": "hidden",
+  "description": "The central wholesale market serving local merchants and restaurateurs.",
+  "id": 93,
+  "name": "Marché de Gros"
+ },
+ {
+  "area": "Medina",
+  "category": "culture",
+  "description": "A narrow street in the Medina dedicated exclusively to traditional jewelry shops.",
+  "id": 94,
+  "name": "Souk des Bijoutiers"
+ },
+ {
+  "area": "Medina",
+  "category": "hidden",
+  "description": "The historical street where local dyers once processed wool and fabrics.",
+  "id": 95,
+  "name": "Rue des Teinturiers"
+ },
+ {
+  "area": "Ville Nouvelle",
+  "category": "culture",
+  "description": "An independent bookstore and cultural space hosting author events and readings.",
+  "id": 96,
+  "name": "Les Insolites"
+ },
+ {
+  "area": "Ville Nouvelle",
+  "category": "culture",
+  "description": "A legendary bookstore founded in 1949, central to Tangier's literary history.",
+  "id": 97,
+  "name": "Librairie des Colonnes"
+ },
+ {
+  "area": "Medina",
+  "category": "hidden",
+  "description": "A longstanding family-run shop crafting traditional essential oils and custom fragrances.",
+  "id": 98,
+  "name": "Madini Perfumery"
+ },
+ {
+  "area": "Medina",
+  "category": "culture",
+  "description": "A curated boutique within the old walls featuring traditional Moroccan crafts.",
+  "id": 99,
+  "name": "Lixus Art"
+ },
+ {
+  "area": "Kasbah",
+  "category": "culture",
+  "description": "A modern concept store offering local designer clothing, crafts, and tea.",
+  "id": 100,
+  "name": "Las Chicas"
+ },
+ {
+  "area": "Medina",
+  "category": "hidden",
+  "description": "An antique shop specializing in rare Moroccan textiles, carpets, and silver.",
+  "id": 101,
+  "name": "Boutique Majid"
+ },
+ {
+  "area": "Centre",
+  "category": "culture",
+  "description": "A government-sponsored artisanal center training youth in traditional Moroccan handicrafts.",
+  "id": 102,
+  "name": "Dar Sanaa"
+ },
+ {
+  "area": "Centre",
+  "category": "culture",
+  "description": "A fixed-price cooperative selling authentic leather goods, ceramics, and textiles.",
+  "id": 103,
+  "name": "Cooperative Artisanale de Tanger"
+ },
+ {
+  "area": "Kasbah",
+  "category": "culture",
+  "description": "A contemporary store dedicated to artisan candles and high-quality local fragrances.",
+  "id": 104,
+  "name": "Rumi 1436"
+ },
+ {
+  "area": "Medina",
+  "category": "hidden",
+  "description": "A dense shop filled with vintage brassware, old coins, and regional artifacts.",
+  "id": 105,
+  "name": "Volubilis Antiques"
+ },
+ {
+  "area": "Ville Nouvelle",
+  "category": "culture",
+  "description": "An antique gallery dealing in historical Islamic art and Moroccan antiquities.",
+  "id": 106,
+  "name": "Tindouf Gallery"
+ },
+ {
+  "area": "Medina",
+  "category": "hidden",
+  "description": "An eclectic market stall offering an array of local curiosities and souvenirs.",
+  "id": 107,
+  "name": "Bazar Tindouf"
+ },
+ {
+  "area": "Rmilat",
+  "category": "nature",
+  "description": "A curated botanical garden showcasing indigenous flora and offering organic tea.",
+  "id": 108,
+  "name": "Donabo Gardens"
+ },
+ {
+  "area": "Malabata",
+  "category": "nature",
+  "description": "A public park occupying the former estate grounds of a British journalist.",
+  "id": 109,
+  "name": "Parc de la Villa Harris"
+ },
+ {
+  "area": "Ville Nouvelle",
+  "category": "nature",
+  "description": "A small urban green space providing a quiet break in the city center.",
+  "id": 110,
+  "name": "Parc Brooks"
+ },
+ {
+  "area": "Centre",
+  "category": "sea",
+  "description": "The city's main urban beach spanning the central waterfront.",
+  "id": 111,
+  "name": "Plage Municipale de Tanger"
+ },
+ {
+  "area": "Marshan",
+  "category": "sea",
+  "description": "A rocky cove beach situated at the base of the city's steep coastal cliffs.",
+  "id": 112,
+  "name": "Merkala Beach"
+ },
+ {
+  "area": "Achakkar",
+  "category": "sea",
+  "description": "A family-friendly Atlantic beach known for clean sands and coastal rock formations.",
+  "id": 113,
+  "name": "Ba Kacem Beach"
+ },
+ {
+  "area": "Achakkar",
+  "category": "sea",
+  "description": "A vast, open stretch of Atlantic coastline popular for walking and sunsets.",
+  "id": 114,
+  "name": "Sidi Kacem Beach"
+ },
+ {
+  "area": "Malabata",
+  "category": "sea",
+  "description": "A calm beach area located along the eastern sweep of Tangier bay.",
+  "id": 115,
+  "name": "Plage Malabata"
+ },
+ {
+  "area": "Beni Makada",
+  "category": "nature",
+  "description": "A neighborhood recreational park serving one of Tangier's most populous districts.",
+  "id": 116,
+  "name": "Beni Makada Park"
+ },
+ {
+  "area": "Malabata",
+  "category": "sea",
+  "description": "A relaxed beach section known for seaside cafes and water sports.",
+  "id": 117,
+  "name": "Ghandouri Beach"
+ },
+ {
+  "area": "Achakkar",
+  "category": "nature",
+  "description": "A protected woodland area stretching along the Atlantic coast.",
+  "id": 118,
+  "name": "Cap Spartel Forest"
+ },
+ {
+  "area": "Jbel Kebir",
+  "category": "nature",
+  "description": "A prominent wooded mountain housing royal estates and winding scenic roads.",
+  "id": 119,
+  "name": "Jbel Kebir"
+ },
+ {
+  "area": "Boubana",
+  "category": "nature",
+  "description": "A natural river valley area bordering the city's western golf courses.",
+  "id": 120,
+  "name": "Oued Boubana"
+ },
+ {
+  "area": "Malabata",
+  "category": "nature",
+  "description": "An elevated hillside spot offering unspoiled views of the Mediterranean coastline.",
+  "id": 121,
+  "name": "Nouinouich Viewpoint"
+ },
+ {
+  "area": "Medina",
+  "category": "food",
+  "description": "A renowned rustic eatery serving a fixed menu of traditional fish and seafood.",
+  "id": 122,
+  "name": "Populaire Saveur de Poisson"
+ },
+ {
+  "area": "Kasbah",
+  "category": "food",
+  "description": "A chic restaurant and piano bar situated near the Kasbah entrance.",
+  "id": 123,
+  "name": "El Morocco Club"
+ },
+ {
+  "area": "Medina",
+  "category": "food",
+  "description": "A traditional Moroccan restaurant known for couscous and rooftop Medina views.",
+  "id": 124,
+  "name": "Restaurant Al Maimouni"
+ },
+ {
+  "area": "Medina",
+  "category": "food",
+  "description": "An unassuming local spot serving highly rated tajines and traditional soups.",
+  "id": 125,
+  "name": "Restaurant Ahlen"
+ },
+ {
+  "area": "Malabata",
+  "category": "food",
+  "description": "A popular traditional restaurant famous for slow-cooked meats and Moroccan tea.",
+  "id": 126,
+  "name": "Dar Naji"
+ },
+ {
+  "area": "Ville Nouvelle",
+  "category": "food",
+  "description": "A well-established Spanish restaurant offering tapas and Iberian specialties.",
+  "id": 127,
+  "name": "Casa Pepe"
+ },
+ {
+  "area": "Malabata",
+  "category": "food",
+  "description": "A seaside dining venue focused on fresh Mediterranean seafood dishes.",
+  "id": 128,
+  "name": "El Tangerino"
+ },
+ {
+  "area": "Malabata",
+  "category": "food",
+  "description": "A fine-dining establishment known for its creative French-Moroccan fusion cuisine.",
+  "id": 129,
+  "name": "Restaurant O Saveur"
+ },
+ {
+  "area": "Medina",
+  "category": "food",
+  "description": "A beautifully decorated riad restaurant offering classical Moroccan gastronomy.",
+  "id": 130,
+  "name": "Le Nabab"
+ },
+ {
+  "area": "Medina",
+  "category": "food",
+  "description": "A welcoming eatery celebrated for its authentic Moroccan seafood and vegetarian options.",
+  "id": 131,
+  "name": "Restaurant Rif Kebdani"
+ },
+ {
+  "area": "Ville Nouvelle",
+  "category": "food",
+  "description": "A long-standing Italian restaurant highly regarded for its homemade pasta and pizza.",
+  "id": 132,
+  "name": "Anna e Paolo"
+ },
+ {
+  "area": "Ville Nouvelle",
+  "category": "food",
+  "description": "A historic Asian restaurant featuring distinctive mid-century pagoda-style architecture.",
+  "id": 133,
+  "name": "La Pagode"
+ },
+ {
+  "area": "Achakkar",
+  "category": "food",
+  "description": "A high-end seafood restaurant located directly along the Atlantic coast.",
+  "id": 134,
+  "name": "L'Océan"
+ },
+ {
+  "area": "Achakkar",
+  "category": "food",
+  "description": "A luxury cliff-top restaurant known for refined dining and dramatic ocean views.",
+  "id": 135,
+  "name": "Le Mirage"
+ },
+ {
+  "area": "Medina",
+  "category": "food",
+  "description": "A classic tourist-friendly restaurant serving Moroccan staples with live traditional music.",
+  "id": 136,
+  "name": "Restaurant Hammadi"
+ },
+ {
+  "area": "Medina",
+  "category": "food",
+  "description": "A humble stall offering some of the city's most beloved grilled meats.",
+  "id": 137,
+  "name": "Chez Hassan"
+ },
+ {
+  "area": "Ville Nouvelle",
+  "category": "food",
+  "description": "A favorite local dining room serving no-frills, hearty Moroccan comfort food.",
+  "id": 138,
+  "name": "Restaurant Bachir"
+ },
+ {
+  "area": "Centre",
+  "category": "food",
+  "description": "A busy central diner popular for everyday Moroccan meals and fresh juices.",
+  "id": 139,
+  "name": "Restaurant Annajma"
+ },
+ {
+  "area": "Malabata",
+  "category": "Malabata",
+  "description": "An established waterfront restaurant known for varied menus and bay vistas.",
+  "id": 140,
+  "name": "Ali Baba Restaurant"
+ },
+ {
+  "area": "Centre",
+  "category": "food",
+  "description": "A French bakery branch offering pastries and coffee near a historic hotel.",
+  "id": 141,
+  "name": "Paul (Villa de France)"
+ },
+ {
+  "area": "Centre",
+  "category": "culture",
+  "description": "The modern railway terminal serving Africa's first high-speed train line.",
+  "id": 142,
+  "name": "Gare de Tanger-Ville"
+ },
+ {
+  "area": "Boubana",
+  "category": "culture",
+  "description": "A major sporting arena hosting national and international football matches.",
+  "id": 143,
+  "name": "Stade Ibn Batouta"
+ },
+ {
+  "area": "Marshan",
+  "category": "history",
+  "description": "Ancient cliffside tombs offering a spectacular vantage point over the sea.",
+  "id": 144,
+  "name": "Tombeaux des Phéniciens"
+ },
+ {
+  "area": "Medina",
+  "category": "history",
+  "description": "The fortified stone walls that have historically protected the old city.",
+  "id": 145,
+  "name": "Muraille de Tanger"
+ },
+ {
+  "area": "Kasbah",
+  "category": "history",
+  "description": "The lavish former residence of heiress Barbara Hutton, admired from the street.",
+  "id": 146,
+  "name": "Sidi Hosni Palace"
+ },
+ {
+  "area": "Ville Nouvelle",
+  "category": "history",
+  "description": "A mosque distinguished by its Middle Eastern architectural style and square minaret.",
+  "id": 147,
+  "name": "Mosquée Syrienne"
+ },
+ {
+  "area": "Centre",
+  "category": "culture",
+  "description": "A heritage hotel where Henri Matisse stayed and painted in 1912.",
+  "id": 148,
+  "name": "Villa de France Hotel"
+ }
+]
